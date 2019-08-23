@@ -18,3 +18,9 @@ button
     color: black;
 }
 
+button.sharp
+{
+    width: 50px;
+    background-color: black;
+    color: snow;
+}
